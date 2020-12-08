@@ -1,5 +1,4 @@
 # AI-Tic-Tac-Toe
-This is a Tic Tac Toe game with an unbeatable AI ever possible !! (With game Demo)
+This is a Tic Tac Toe game with an unbeatable AI ever possible !!
 
-
-<a href="index.html">Demo</a>
+I hope you enjoy it !!

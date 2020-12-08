@@ -9,4 +9,3 @@ So that I can fix it <strong>:)</strong> <br />
 
 MIT LICENSE
 
-<iframe src="LICENSE"></iframe>
